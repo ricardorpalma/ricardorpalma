@@ -1,4 +1,4 @@
-# GitHub rpalma landing page
+# GitHub rpalma's landing page
 - 👋 Hi, I’m @ricardorpalma. Aka Ricardo R. Palma
 - 👀 I’m interested in ... Industrial Engineering, Supply Chain Management, Energy Efficiency, Industry 4.0
 - 🌱 I’m currently teaching ...  Doctorado Interinstitucional en Ingeniería Industrial 
