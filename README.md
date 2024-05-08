@@ -1,5 +1,5 @@
 # GitHub rpalma's landing page
-- 👋 Hi, I’m @ricardorpalma. Aka Ricardo R. Palma
+- 👋 Hi, I’m @ricardorpalma. Aka Ricardo R. Palma https://orcid.org/0000-0002-1864-7625
 - 👀 I’m interested in ... Industrial Engineering, Supply Chain Management, Energy Efficiency, Industry 4.0
 - 🌱 I’m currently teaching ...  Doctorado Interinstitucional en Ingeniería Industrial 
 - 💞️ I’m looking to collaborate on develop a sustainable and equitative future !!!
