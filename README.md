@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 Infraestructura Crítica y Cadena de Suministros <https://ricardorpalma.github.io/IC_SCM/>
 - 📫 Materiales Clases Técnicas y Herramientas Modernas I
 - 📫 Materiales TyHM II
-- 📫 Curso de la Hipótesis a la tesis (paper de Patricio)
+- 📫 Curso de la Hipótesis a la tesis (paper de Patricio <https://github.com/ricardorpalma/Industry_4_0>)
 
 ## Técnicas y Herramientas Modernas 
 
