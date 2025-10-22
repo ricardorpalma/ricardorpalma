@@ -24,6 +24,9 @@ You can click the Preview link to take a look at your changes.
 - 📫 Materiales TyHM II
 - 📫 Curso de la Hipótesis a la tesis (paper de Patricio <https://github.com/ricardorpalma/Industry_4_0>)
 
+- ## Mis repositorios
+- <https://github.com/ricardorpalma?tab=repositories>
+
 ## Técnicas y Herramientas Modernas 
 
 ### Industrial
