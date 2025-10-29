@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 ## Técnicas y Herramientas Modernas 
 
 ### Industrial
+https://rpubs.com/ricardorpalma/1361437   Estadisticos principales
 
 ### Mecatrónica
 
